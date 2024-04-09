@@ -3,11 +3,11 @@
 title: 常欣海
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xinhai
+last_name: Chang
 
 # Status emoji
 status:
@@ -22,7 +22,7 @@ role: Undergraduate student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Peking University
-    url: https://www.stanford.edu/
+    url: https://pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include CV, robot manipulation
